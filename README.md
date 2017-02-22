@@ -1,5 +1,7 @@
 # normalize-ssh-url
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/normalize-ssh-url.svg)](https://greenkeeper.io/)
+
 > Normalize a SSH URL
 
 [![npm version](https://img.shields.io/npm/v/normalize-ssh-url.svg)](https://www.npmjs.com/package/normalize-ssh-url) [![Build Status](https://img.shields.io/travis/zkochan/normalize-ssh-url/master.svg)](https://travis-ci.org/zkochan/normalize-ssh-url)
