@@ -1,6 +1,6 @@
 {
   "name": "normalize-ssh",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Normalize a SSH URL",
   "main": "index.js",
   "files": [
