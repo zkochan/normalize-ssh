@@ -1,4 +1,5 @@
 dependencies:
+  is-ssh: registry.npmjs.org/is-ssh/1.3.0
   parse-url: registry.npmjs.org/parse-url/1.3.5
   tape: registry.npmjs.org/tape/4.6.3
 packages:

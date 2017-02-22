@@ -9,3 +9,8 @@ test('normalize-ssh-url', t => {
   t.equal(normalizeSshUrl('ssh://git@github.com/kaelzhang/node-ssh-url.git'), 'ssh://git@github.com:22/kaelzhang/node-ssh-url.git')
   t.end()
 })
+
+test('throw error if invalid SSH URL passed in', t => {
+  t.throws(() => normalizeSshUrl('https://github.com'), /Invalid SSH URL/)
+  t.end()
+})

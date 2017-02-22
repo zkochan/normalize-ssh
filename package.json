@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/zkochan/normalize-ssh#readme",
   "dependencies": {
+    "is-ssh": "^1.3.0",
     "parse-url": "^1.3.5"
   },
   "devDependencies": {
